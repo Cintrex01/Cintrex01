@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lucas and I'm a Software Engineering student at the Federal University of Technology - Paraná (UTFPR), Brazil. I'm currently diving into full-stack web development, learning how to build dynamic and efficient applications from the ground up. I'm passionate about coding and eager to apply my skills in both frontend and backend development. At the moment, I'm actively looking for a job in the field where I can grow and contribute to exciting projects. Let’s connect! 😊</h2>
+<h2 align="left">Oi! 👋 Sou o Lucas, estudante de Engenharia de Software pela UTFPR e estagiário na Vivo (Telefônica Brasil). Gosto de desenvolver aplicações Full Stack e tenho bastante interesse em Cloud Computing. Apaixonado por tecnologia e sempre em busca de aprender mais. Bora se conectar! 😄</h2>
 
 ###
 
